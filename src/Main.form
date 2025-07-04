@@ -392,7 +392,7 @@
                                                               <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
                                                               <Group type="103" groupAlignment="0" attributes="0">
                                                                   <Component id="jLabel72" alignment="0" min="-2" max="-2" attributes="0"/>
-                                                                  <Component id="jSpinner17" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="jSpinner1" alignment="0" min="-2" max="-2" attributes="0"/>
                                                               </Group>
                                                           </Group>
                                                       </Group>
@@ -416,7 +416,7 @@
                                                   <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
                                                   <Group type="103" groupAlignment="3" attributes="0">
                                                       <Component id="jLabel73" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                      <Component id="jSpinner17" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jSpinner1" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   </Group>
                                                   <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
                                                   <Component id="jButton21" min="-2" max="-2" attributes="0"/>
@@ -470,7 +470,7 @@
                                             <Property name="text" type="java.lang.String" value="Quantity"/>
                                           </Properties>
                                         </Component>
-                                        <Component class="javax.swing.JSpinner" name="jSpinner17">
+                                        <Component class="javax.swing.JSpinner" name="jSpinner1">
                                           <Properties>
                                             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                                               <Font name="Microsoft YaHei" size="12" style="0"/>

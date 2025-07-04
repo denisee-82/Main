@@ -16,7 +16,18 @@ public class Main extends javax.swing.JFrame {
     }
     
     public void reset() {
-        jSpinner17.setValue(1);
+        jSpinner1.setValue(0);
+        jSpinner2.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner2.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner1.setValue(0);
+        jSpinner1.setValue(0);
     }
 
     /**
@@ -44,7 +55,7 @@ public class Main extends javax.swing.JFrame {
         jLabel71 = new javax.swing.JLabel();
         jLabel72 = new javax.swing.JLabel();
         jLabel73 = new javax.swing.JLabel();
-        jSpinner17 = new javax.swing.JSpinner();
+        jSpinner1 = new javax.swing.JSpinner();
         jButton21 = new javax.swing.JButton();
         jLabel74 = new javax.swing.JLabel();
         jPanel17 = new javax.swing.JPanel();
@@ -216,9 +227,9 @@ public class Main extends javax.swing.JFrame {
         jLabel73.setForeground(new java.awt.Color(0, 0, 0));
         jLabel73.setText("Quantity");
 
-        jSpinner17.setFont(new java.awt.Font("Microsoft YaHei", 0, 12)); // NOI18N
-        jSpinner17.setModel(new javax.swing.SpinnerNumberModel(0, 0, 200, 1));
-        jSpinner17.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jSpinner1.setFont(new java.awt.Font("Microsoft YaHei", 0, 12)); // NOI18N
+        jSpinner1.setModel(new javax.swing.SpinnerNumberModel(0, 0, 200, 1));
+        jSpinner1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         jButton21.setBackground(new java.awt.Color(162, 103, 105));
         jButton21.setFont(new java.awt.Font("Dutch801 Rm BT", 1, 14)); // NOI18N
@@ -249,7 +260,7 @@ public class Main extends javax.swing.JFrame {
                             .addGap(41, 41, 41)
                             .addGroup(jPanel52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                 .addComponent(jLabel72)
-                                .addComponent(jSpinner17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                                .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
                 .addContainerGap(36, Short.MAX_VALUE))
             .addComponent(jLabel74, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
@@ -266,7 +277,7 @@ public class Main extends javax.swing.JFrame {
                 .addGap(4, 4, 4)
                 .addGroup(jPanel52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel73)
-                    .addComponent(jSpinner17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(3, 3, 3)
                 .addComponent(jButton21))
         );
@@ -1606,10 +1617,10 @@ public class Main extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel7;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane8;
+    private javax.swing.JSpinner jSpinner1;
     private javax.swing.JSpinner jSpinner10;
     private javax.swing.JSpinner jSpinner11;
     private javax.swing.JSpinner jSpinner12;
-    private javax.swing.JSpinner jSpinner17;
     private javax.swing.JSpinner jSpinner2;
     private javax.swing.JSpinner jSpinner3;
     private javax.swing.JSpinner jSpinner4;
