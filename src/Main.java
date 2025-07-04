@@ -3,19 +3,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author tyrav
- */
 public class Main extends javax.swing.JFrame {
     
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(Main.class.getName());
 
-    /**
-     * Creates new form Main
-     */
     public Main() {
         initComponents();
+    }
+    
+    public void init() {
+        
+    }
+    
+    public void reset() {
+        jSpinner17.setValue(1);
     }
 
     /**
@@ -1419,6 +1420,7 @@ public class Main extends javax.swing.JFrame {
 
     private void btnResetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnResetActionPerformed
         // TODO add your handling code here:
+        reset();
     }//GEN-LAST:event_btnResetActionPerformed
 
     private void btnReceiptActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnReceiptActionPerformed
