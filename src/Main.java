@@ -1348,7 +1348,6 @@ public class Main extends javax.swing.JFrame {
             }
         });
 
-        jTextArea.setEditable(false);
         jTextArea.setBackground(new java.awt.Color(255, 255, 255));
         jTextArea.setColumns(20);
         jTextArea.setRows(5);
@@ -1517,7 +1516,7 @@ public class Main extends javax.swing.JFrame {
         jTextArea2.setFont(new java.awt.Font("Dutch801 XBd BT", 1, 18)); // NOI18N
         jTextArea2.setForeground(new java.awt.Color(162, 103, 105));
         jTextArea2.setRows(5);
-        jTextArea2.setText("Email us for your customization of your design, this ensures the quality of the image for your prints. We’d also love to hear \nfrom you! Whether you have questions, feedback, or custom print requests, our team is here to help.\n\nReach Us At\n\t•\tEmail: printsonalized.ph@gmail.com\n\t•\tPhone: 0912 345 6789\n\t•\tFacebook: fb.com/Printsonalized\n\t•\tInstagram: @Printsonalized\n\nBusiness Hours\n\t•\tMonday to Saturday\n\t•\t9:00 AM – 6:00 PM\n\t•\tClosed on Sundays & Holidays\n\nLocation\n#32 Sampaguita Street, Matina Aplaya, Davao City, 8000, Philippines\n(We’re fully online — meetups by appointment only)\n\nMessage us anytime — we’ll get back to you within 24 hours!");
+        jTextArea2.setText("Email us for your customization of your design, this ensures the quality of the image for your prints. We’d also love to hear \nfrom you! Whether you have questions, feedback, or custom print requests, our team is here to help.\n\nReach Us At\n\t•\tEmail: printsonalized.ph@gmail.com\n\t•\tPhone: 0912 345 6789\n\t•\tFacebook: fb.com/Printsonalized\n\t•\tInstagram: @Printsonalized\n\nBusiness Hours\n\t•\tMonday to Saturday\n\t•\t9:00 AM – 6:00 PM\n\t•\tClosed on Sundays & Holidays\n\nLocation\n\t•\t#32 Sampaguita Street, Matina Aplaya, Davao City, 8000, Philippines\n\t•\t(We’re fully online — meetups by appointment only)\n\nMessage us anytime — we’ll get back to you within 24 hours!");
         jTextArea2.setBorder(null);
         jScrollPane3.setViewportView(jTextArea2);
 
@@ -1560,7 +1559,7 @@ public class Main extends javax.swing.JFrame {
         jTextArea1.setFont(new java.awt.Font("Dutch801 XBd BT", 1, 18)); // NOI18N
         jTextArea1.setForeground(new java.awt.Color(162, 103, 105));
         jTextArea1.setRows(5);
-        jTextArea1.setText("At Printsonalized, we believe that every print should reflect your personality. Whether it’s for school, \nbusiness, or gifts, we help you bring your ideas to life one custom print at a time.\n\nFounded by a group of students, Printsonalized is your one-stop print shop for documents, photos, \nIDs, business cards, mugs, t-shirts, and more. Our goal is to make printing easy, fast, and \npersonal through a smooth, user-friendly \ndesktop application.\n\nWe’re not just about ink and paper — we’re about making it yours.");
+        jTextArea1.setText("At Printsonalized, we believe that every print should reflect your personality. \nWhether it’s for school, business, or gifts, we help you bring your ideas to life\none custom print at a time.\n\nFounded by a group of students, Printsonalized is your one-stop print shop for \ndocuments, photos, IDs, business cards, mugs, t-shirts, and more. Our goal is\nto make printing easy, fast, and personal through a smooth, user-friendly \ndesktop application.\n\nWe’re not just about ink and paper — we’re about making it yours.");
         jTextArea1.setWrapStyleWord(true);
         jTextArea1.setAutoscrolls(false);
         jTextArea1.setBorder(null);
@@ -1684,6 +1683,7 @@ public class Main extends javax.swing.JFrame {
         jTextArea.setText("*************************Printsonalized**************************\n" 
             + "Time: " + jTxTime.getText()+ "                     "
             + "Date: "+ jTxtDate.getText()+"\n"+"Purchase ID: "+ purchaseID+"\n"
+            +"For the customization of products, check \nContact Us tab for more information.\n"
             +"*******************************************************************\n"
             +"Item Name: \t\t\t" + "Price(₱): \n");
     }

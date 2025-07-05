@@ -2265,7 +2265,6 @@
                           <SubComponents>
                             <Component class="javax.swing.JTextArea" name="jTextArea">
                               <Properties>
-                                <Property name="editable" type="boolean" value="false"/>
                                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                                 </Property>
@@ -2476,7 +2475,7 @@
                               <Color blue="69" green="67" red="a2" type="rgb"/>
                             </Property>
                             <Property name="rows" type="int" value="5"/>
-                            <Property name="text" type="java.lang.String" value="Email us for your customization of your design, this ensures the quality of the image for your prints. We&#x2019;d also love to hear &#xa;from you! Whether you have questions, feedback, or custom print requests, our team is here to help.&#xa;&#xa;Reach Us At&#xa;&#x9;&#x2022;&#x9;Email: printsonalized.ph@gmail.com&#xa;&#x9;&#x2022;&#x9;Phone: 0912 345 6789&#xa;&#x9;&#x2022;&#x9;Facebook: fb.com/Printsonalized&#xa;&#x9;&#x2022;&#x9;Instagram: @Printsonalized&#xa;&#xa;Business Hours&#xa;&#x9;&#x2022;&#x9;Monday to Saturday&#xa;&#x9;&#x2022;&#x9;9:00 AM &#x2013; 6:00 PM&#xa;&#x9;&#x2022;&#x9;Closed on Sundays &amp; Holidays&#xa;&#xa;Location&#xa;#32 Sampaguita Street, Matina Aplaya, Davao City, 8000, Philippines&#xa;(We&#x2019;re fully online &#x2014; meetups by appointment only)&#xa;&#xa;Message us anytime &#x2014; we&#x2019;ll get back to you within 24 hours!"/>
+                            <Property name="text" type="java.lang.String" value="Email us for your customization of your design, this ensures the quality of the image for your prints. We&#x2019;d also love to hear &#xa;from you! Whether you have questions, feedback, or custom print requests, our team is here to help.&#xa;&#xa;Reach Us At&#xa;&#x9;&#x2022;&#x9;Email: printsonalized.ph@gmail.com&#xa;&#x9;&#x2022;&#x9;Phone: 0912 345 6789&#xa;&#x9;&#x2022;&#x9;Facebook: fb.com/Printsonalized&#xa;&#x9;&#x2022;&#x9;Instagram: @Printsonalized&#xa;&#xa;Business Hours&#xa;&#x9;&#x2022;&#x9;Monday to Saturday&#xa;&#x9;&#x2022;&#x9;9:00 AM &#x2013; 6:00 PM&#xa;&#x9;&#x2022;&#x9;Closed on Sundays &amp; Holidays&#xa;&#xa;Location&#xa;&#x9;&#x2022;&#x9;#32 Sampaguita Street, Matina Aplaya, Davao City, 8000, Philippines&#xa;&#x9;&#x2022;&#x9;(We&#x2019;re fully online &#x2014; meetups by appointment only)&#xa;&#xa;Message us anytime &#x2014; we&#x2019;ll get back to you within 24 hours!"/>
                             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
                               <Border info="null"/>
                             </Property>
@@ -2547,7 +2546,7 @@
                           <Color blue="69" green="67" red="a2" type="rgb"/>
                         </Property>
                         <Property name="rows" type="int" value="5"/>
-                        <Property name="text" type="java.lang.String" value="At Printsonalized, we believe that every print should reflect your personality. Whether it&#x2019;s for school, &#xa;business, or gifts, we help you bring your ideas to life one custom print at a time.&#xa;&#xa;Founded by a group of students, Printsonalized is your one-stop print shop for documents, photos, &#xa;IDs, business cards, mugs, t-shirts, and more. Our goal is to make printing easy, fast, and &#xa;personal through a smooth, user-friendly &#xa;desktop application.&#xa;&#xa;We&#x2019;re not just about ink and paper &#x2014; we&#x2019;re about making it yours."/>
+                        <Property name="text" type="java.lang.String" value="At Printsonalized, we believe that every print should reflect your personality. &#xa;Whether it&#x2019;s for school, business, or gifts, we help you bring your ideas to life&#xa;one custom print at a time.&#xa;&#xa;Founded by a group of students, Printsonalized is your one-stop print shop for &#xa;documents, photos, IDs, business cards, mugs, t-shirts, and more. Our goal is&#xa;to make printing easy, fast, and personal through a smooth, user-friendly &#xa;desktop application.&#xa;&#xa;We&#x2019;re not just about ink and paper &#x2014; we&#x2019;re about making it yours."/>
                         <Property name="wrapStyleWord" type="boolean" value="true"/>
                         <Property name="autoscrolls" type="boolean" value="false"/>
                         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
